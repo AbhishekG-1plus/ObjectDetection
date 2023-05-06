@@ -22,7 +22,7 @@ Setting up TensorFlow Lite on the Raspberry Pi :
 - 👉 Step3 : **Download this repository and create virtual environment**
     
     ```jsx
-    git clone https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
+    git clone https://github.com/AbhishekG-1plus/ObjectDetection.git
     ```
     
     Renaming for simplifying purposes:
