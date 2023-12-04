@@ -1,4 +1,4 @@
-# ReadMe | ESE8 | Embedded Project
+# ReadMe | ESE8 | Embedded-Computer Vision Project
 
 Setting up TensorFlow Lite on the Raspberry Pi :
 
