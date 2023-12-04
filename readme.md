@@ -1,5 +1,12 @@
 # ReadMe | ESE8 | Embedded-Computer Vision Project
 
+<aside>
+💡 A complete video of the demonstration:
+
+</aside>
+
+[https://photos.app.goo.gl/y6JhqgtntCbR5oCPA](https://photos.app.goo.gl/y6JhqgtntCbR5oCPA)
+
 Setting up TensorFlow Lite on the Raspberry Pi :
 
 1. Update the Raspberry Pi.
@@ -94,9 +101,4 @@ Setting up TensorFlow Lite on the Raspberry Pi :
     ![Screenshot 2023-05-05 at 6.37.22 PM.png](ReadMe%20ESE8%20Embedded%20Project%200d1eec4c178540599843868253f10fc6/Screenshot_2023-05-05_at_6.37.22_PM.png)
     
 
-<aside>
-💡 A complete video of the demonstration:
 
-</aside>
-
-[https://photos.app.goo.gl/y6JhqgtntCbR5oCPA](https://photos.app.goo.gl/y6JhqgtntCbR5oCPA)
